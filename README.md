@@ -20,7 +20,7 @@ This project is a playable Tic Tac Toe game with an AI opponent implemented usin
 To install the project, follow these steps:
 sh
 Copy code
-git clone https://github.com/Jayjay422/tic-tac-toe-ai.git
+git clone https://github.com/Jayjay422/TicTacToe-AI.git
 Navigate to the project directory:
 sh
 Copy code
